@@ -1,0 +1,5 @@
+myvenvv/
+__pycache__/
+
+*.bak
+
